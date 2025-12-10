@@ -1,5 +1,5 @@
 // The name of the CSV file created from your Excel file
-const DATA_FILE = "data.csv";
+const DATA_FILE = "simplified_data.csv";
 const TABLE_CONTAINER_ID = "table-container";
 
 Papa.parse(DATA_FILE, {
